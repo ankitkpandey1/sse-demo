@@ -41,7 +41,7 @@ A demo repository for showcasing **Server-Sent Events (SSE)** using [Vue.js](htt
 Before getting started, ensure you have the following installed on your system:
 
 - **Node.js** (Latest LTS version recommended) – for the frontend.
-- **Python 3.8+** – for the backend.
+- **Python 3.10+** – for the backend.
 - **pip** – Python package installer.
 - **Git** – to clone the repository.
 
@@ -78,7 +78,7 @@ cd sse-demo
    npm run dev
    ```
 
-   The frontend should now be running on [http://localhost:3000](http://localhost:3000) (or another port as specified in your configuration).
+   The frontend should now be running on [http://localhost:5173](http://localhost:5173).
 
 ### Backend Setup
 
